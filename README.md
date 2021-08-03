@@ -1,1 +1,1 @@
-# [Whoami](https://ifranferrandez.github.io/)
+# [whoami](https://ifranferrandez.github.io/ifranferrandez)
